@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\settings.o
+./release\profilemanager.o
+./release\alertwindow.o
+./release\helper.o
+./release\backup.o
+./release\about.o
+./release\moc_mainwindow.o
+./release\moc_settings.o
+./release\moc_profilemanager.o
+./release\moc_alertwindow.o
+./release\moc_backup.o
+./release\moc_about.o
+);

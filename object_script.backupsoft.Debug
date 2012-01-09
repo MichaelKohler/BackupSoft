@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\settings.o
+./debug\profilemanager.o
+./debug\alertwindow.o
+./debug\helper.o
+./debug\backup.o
+./debug\about.o
+./debug\moc_mainwindow.o
+./debug\moc_settings.o
+./debug\moc_profilemanager.o
+./debug\moc_alertwindow.o
+./debug\moc_backup.o
+./debug\moc_about.o
+);

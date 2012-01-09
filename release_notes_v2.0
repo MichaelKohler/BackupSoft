@@ -1,0 +1,21 @@
+Release Notes BACKUPSOFT v1.0 -> 2.0
+====================================
+
+Number of Patches: 33
+
+Detailed List:
+
+* Test if source or destination exists when creating a new profile
+* Multiple Changes to the list of profiles
+	- single-select rows
+ 	- select row and not only cell
+	- sort columns works now
+* Active/Deactive state for profiles introduced
+* styling problems with AlertWindows fixed
+* German translation + language switcher
+* fixed issue with tableUpdate(), now the table gets refreshed correctly
+* fixed "0 MB copied" message
+* general optimization
+* "Backup Now" also in menu
+* size of the main window is fixed now
+
